@@ -7,7 +7,7 @@ Professionally, I’ve worked as a Backend Engineer, primarily using PL/SQL and 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mario-andres-rodriguez-osorio-b3b4a1126/)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mario-andres-rodriguez-osorio-b3b4a1126/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mario-andres-rodriguez-osorio-b3b4a1126/)
 
 ## 💻 Tech Stack & Skills
 - Backend Development: Java, Spring Boot, Spring Web MVC, Spring Data JPA, Spring Security, Thymeleaf, Maven, Lombok.
