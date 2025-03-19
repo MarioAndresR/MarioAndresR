@@ -1,4 +1,4 @@
-👋 Hi there! Welcome to my GitHub!
+# 👋 Hi there! Welcome to my GitHub!
 
 💻 About Me
 I'm an Electronics Engineer with a strong passion for technology, software development, and continuous learning.
